@@ -1,17 +1,17 @@
 <h1 align="center">
-    <img alt="dev.finances" title="dev.finances" src="./assets/logo.png" />
+    <img alt="dev.finances" title="dev.finances" src="./src/assets/logo.png" />
 </h1>
 <br>
 <p align="center">
-  <img alt="dev.finances" src="./assets/preview.png" width="100%">
+  <img alt="dev.finances" src="./src/assets/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
 
-- [HTML](#)
-- [CSS](#)
-- [JavaScript](#)
-- [Vue.JS](#)
+- [HTML]
+- [CSS]
+- [JavaScript]
+- [Vue.JS]
 
 ## 💻 Demo
 
@@ -22,7 +22,7 @@ Acesse a demo do site através deste link:
 
 Facilitando a sua vida financeira 💰
 
-* Código refatorado por mim para aplicação do framework *Vue.JS*
+* Código refatorado por mim para aplicação do **framework Vue.JS**
 *
 * Este é um projeto desenvolvido para a **[MaratonaDiscover](https://maratonadiscover.rocketseat.com.br/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)**.
 
