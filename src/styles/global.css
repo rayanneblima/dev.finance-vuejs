@@ -1,0 +1,35 @@
+/* --------------- GLOBAL --------------- */
+:root {
+  --dark-blue: #363F5F;
+  --light-blue: rgba(77,150,232,1);
+  --light-purple: rgba(113,118,253,1);
+  --dark-green: #2D4A22;
+  --green: #12A454;
+  --light-green: #49AA26;
+  --lighter-green: #3DD705;
+  --red: #E92929;
+  --light-gray: #F0F2F5;
+  --grey: #969CB3;
+  --white: #FFFFFF;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 93.75%; /* 15px */
+}
+
+body {
+  background: var(--light-gray);
+  font-family: 'Poppins', sans-serif;
+}
+
+@media (min-width: 860px) {
+  html {
+    font-size: 87.5%;
+  }
+}
