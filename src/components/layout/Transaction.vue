@@ -24,7 +24,7 @@ export default {
   props: {
     transactions: {
       default: () => ([]),
-      require: false,
+      required: false,
       type: Array
     }
   }

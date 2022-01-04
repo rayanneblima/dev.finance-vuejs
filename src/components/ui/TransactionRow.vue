@@ -22,7 +22,7 @@ export default {
   props: {
     transaction: {
       default: () => ({}),
-      require: true,
+      required: true,
       type: Object
     }
   },

@@ -17,25 +17,25 @@ export default {
   props: {
     title: {
       default: '',
-      require: true,
+      required: true,
       type: String
     },
 
     icon: {
       default: '',
-      require: true,
+      required: true,
       type: String
     },
 
     addClass: {
       default: () => ([]),
-      require: false,
+      required: false,
       type: Array
     },
 
     amount: {
       default: 0,
-      require: true,
+      required: true,
       type: Number
     }
   },
